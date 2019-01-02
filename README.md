@@ -1,6 +1,8 @@
 # Extract ITMS Requirements
 Searches `.docx` documents for ITMS Requirements, noting duplicates and totals.
 
+Looks for `ITMSREQ-` followed by numbers to determine requirements.
+
 ## Usage
 ### Prerequisites
 * [Node.js](https://nodejs.org/)
