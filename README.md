@@ -5,7 +5,7 @@ Looks for `ITMSREQ-` followed by numbers to determine requirements.
 
 ## Usage
 ### Prerequisites
-* [Node.js](https://nodejs.org/)
+* [Node.js](https://nodejs.org/) (>=11)
 
 ### Setup
 Create a `data/` directory at the project root with all `.docx` documents that should be searched for requirements.
