@@ -11,6 +11,11 @@ Looks for `ITMSREQ-` followed by numbers to determine requirements.
 Create a `data/` directory at the project root with all `.docx` documents that should be searched for requirements.
 
 ### Running the script
+Install dependencies
+```
+npm install
+```
+
 From the project root, run
 ```
 node index
