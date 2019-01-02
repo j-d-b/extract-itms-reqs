@@ -18,5 +18,5 @@ node index
 
 ## Output
 The script will output some useful information in the console as well as two files:
-* `duplicates.txt`: a list of requirements that occur more than once, along with which files they occur in
-* `requirements.txt`: a line-separated list of all unique requirements found in the input files
+* `output/duplicates.txt`: a list of requirements that occur more than once, along with which files they occur in
+* `output/requirements.txt`: a line-separated list of all unique requirements found in the input files
